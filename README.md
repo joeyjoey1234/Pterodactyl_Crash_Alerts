@@ -1,6 +1,6 @@
 # Pterodactyl_Crash_Alerts 
 
-Make proper edits to Main.py to fit your mailer system, current config is for mailgun
+Make proper edits to Main.py to fit your mailer system, current config is for mailgun using requests
 ### make and 
 mkdir /opt/log_auditor/ 
 
